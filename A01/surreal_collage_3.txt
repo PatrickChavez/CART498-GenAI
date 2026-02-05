@@ -1,1 +1,0 @@
-prompt = "vintage, row of computers, colorful flowers in an office, early computer art, surreal"
